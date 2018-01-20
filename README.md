@@ -1,8 +1,6 @@
 # Ti.CloudSharing
 Use the iOS 10+ `UICloudSharingController` in Appcelerator Titanium.
 
-> **NOTE**: This module is not finished, yet and should therefore not be used in production apps so far. Feel free to contribute to this module!
-
 ## Run the Sample
 
 1. Copy the `ti.cloudsharing` folder to your `lib/` (Alloy) or your Resources (Classic) directory
